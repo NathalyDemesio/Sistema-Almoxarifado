@@ -1,2 +1,2 @@
 # Sistema-Almoxarifado
-Programação Orientada a Objetos (POO).
+Usando a Programação Orientada a Objetos (POO).
